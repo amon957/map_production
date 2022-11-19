@@ -4,4 +4,4 @@
 - Geopandas
 - Matplotlib
 ### Map Output
-![Cities and Towns in Kenya](Outpu/Kenyan Cities and Towns Copy.jpg)
+![Cities and Towns in Kenya](Output/Kenyan Cities and Towns Copy.jpg)
